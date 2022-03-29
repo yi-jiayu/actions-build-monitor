@@ -1,5 +1,5 @@
 {
-  "name": "github-actions-build-monitor",
+  "name": "actions-build-monitor",
   "version": "0.1.0",
   "private": true,
   "scripts": {
