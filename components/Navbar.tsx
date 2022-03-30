@@ -1,6 +1,6 @@
 import Link from "next/link";
 import React from "react";
-import {CogIcon} from "@heroicons/react/outline";
+import { CogIcon } from "@heroicons/react/outline";
 
 const Navbar = () => {
   return (
